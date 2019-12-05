@@ -30,7 +30,7 @@ def find_greater_pair(src)
       results << src[row_index][1]
     end
   end
-  
+
   results
 end
 
